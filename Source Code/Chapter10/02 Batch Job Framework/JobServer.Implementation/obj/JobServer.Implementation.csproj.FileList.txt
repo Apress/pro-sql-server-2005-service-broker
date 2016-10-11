@@ -1,0 +1,7 @@
+bin\Debug\JobServer.Implementation.dll
+bin\Debug\JobServer.Implementation.pdb
+bin\Debug\JobServer.Interfaces.dll
+bin\Debug\JobServer.Interfaces.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\JobServer.Implementation.dll
+obj\Debug\JobServer.Implementation.pdb

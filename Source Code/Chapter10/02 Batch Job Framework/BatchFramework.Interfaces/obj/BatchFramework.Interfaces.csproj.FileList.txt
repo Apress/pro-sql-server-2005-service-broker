@@ -1,0 +1,5 @@
+bin\Debug\BatchFramework.Interfaces.dll
+bin\Debug\BatchFramework.Interfaces.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BatchFramework.Interfaces.dll
+obj\Debug\BatchFramework.Interfaces.pdb

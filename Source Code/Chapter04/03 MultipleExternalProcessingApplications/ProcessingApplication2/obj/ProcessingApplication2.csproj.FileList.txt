@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ProcessingApplication2.exe.config
+bin\Debug\ProcessingApplication2.exe
+bin\Debug\ProcessingApplication2.pdb
+obj\Debug\ProcessingApplication2.exe
+obj\Debug\ProcessingApplication2.pdb

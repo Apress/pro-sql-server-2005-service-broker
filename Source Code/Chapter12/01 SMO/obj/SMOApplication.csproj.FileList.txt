@@ -1,0 +1,7 @@
+bin\Debug\SMOApplication.exe
+bin\Debug\SMOApplication.pdb
+bin\Debug\Microsoft.SqlServer.Replication.dll
+bin\Debug\Microsoft.SqlServer.BatchParser.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SMOApplication.exe
+obj\Debug\SMOApplication.pdb

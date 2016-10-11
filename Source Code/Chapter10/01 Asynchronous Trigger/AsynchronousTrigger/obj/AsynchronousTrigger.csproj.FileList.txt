@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\AsynchronousTrigger.dll
+bin\Debug\AsynchronousTrigger.pdb
+obj\Debug\AsynchronousTrigger.dll
+obj\Debug\AsynchronousTrigger.pdb

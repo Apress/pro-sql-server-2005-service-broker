@@ -1,0 +1,7 @@
+bin\Debug\OrderServiceLibrary.dll
+bin\Debug\OrderServiceLibrary.pdb
+bin\Debug\ServiceBrokerInterface.dll
+bin\Debug\ServiceBrokerInterface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OrderServiceLibrary.dll
+obj\Debug\OrderServiceLibrary.pdb

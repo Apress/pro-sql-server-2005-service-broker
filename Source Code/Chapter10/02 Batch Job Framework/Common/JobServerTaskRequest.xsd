@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://ssb.csharp.at/JobServer/TaskRequest" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLSchema.xsd" xmlns:mstns="http://ssb.csharp.at/JobServer/TaskRequest" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="TaskRequest">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="TaskData" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:any namespace="##any" minOccurs="0" maxOccurs="1" processContents="skip" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="Submittor" type="xs:string" />
+			<xs:attribute name="SubmittedTime" type="xs:string" />
+			<xs:attribute name="ID" type="xs:string" />
+			<xs:attribute name="MachineName" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

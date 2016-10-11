@@ -1,0 +1,7 @@
+bin\Debug\CreditCardServiceLibrary.dll
+bin\Debug\CreditCardServiceLibrary.pdb
+bin\Debug\ServiceBrokerInterface.dll
+bin\Debug\ServiceBrokerInterface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CreditCardServiceLibrary.dll
+obj\Debug\CreditCardServiceLibrary.pdb

@@ -1,0 +1,7 @@
+bin\Debug\InventoryTargetService.dll
+bin\Debug\InventoryTargetService.pdb
+bin\Debug\ServiceBrokerInterface.dll
+bin\Debug\ServiceBrokerInterface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InventoryTargetService.dll
+obj\Debug\InventoryTargetService.pdb

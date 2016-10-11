@@ -1,0 +1,6 @@
+bin\Debug\ClientApplication.exe.config
+bin\Debug\ClientApplication.exe
+bin\Debug\ClientApplication.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ClientApplication.exe
+obj\Debug\ClientApplication.pdb

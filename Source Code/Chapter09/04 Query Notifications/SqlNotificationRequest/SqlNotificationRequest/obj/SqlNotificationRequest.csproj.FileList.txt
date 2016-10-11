@@ -1,0 +1,8 @@
+bin\Debug\SqlNotificationRequest.exe
+bin\Debug\SqlNotificationRequest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SqlNotificationRequest.Properties.Resources.resources
+obj\Debug\SqlNotificationRequest.csproj.GenerateResource.Cache
+obj\Debug\SqlNotificationRequest.exe
+obj\Debug\SqlNotificationRequest.pdb
+obj\Debug\SqlNotificationRequestSample.Form1.resources
